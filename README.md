@@ -10,6 +10,7 @@ An asset list is provided with a list of requested sounds.
 
 ### Audio asset requirements
 - **Each file must be a 24bit, 44.1kHz Stereo .wav file.**
+- Each sound should be in the `sound_assets` directory on the repo
 - Each filename should be human readable and use the `Asset Name` _as_ its filename:
     - For example, for an `Asset Name`: "menu-open": 
         - `menu-open.wav`
