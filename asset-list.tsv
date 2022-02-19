@@ -1,7 +1,7 @@
 Asset Name	Description	Filename	Game Designer Notes	Sound Designer Notes
-ui-navigate	When user moves from one UI item to another			
-ui-open	When user opens a sub menu		Each submenu is shown as a "bag", so something that reads like a bag being opened	
-ui-close	When user exits a sub menu			
-ui-equip	When user selects an item for gameplay			
-ui-cancel	When user unequips item			
-ui-error	General purpose error sound. Played when user tries to exit a top level submenu, equip a deactivated item, etc			
+ui-navigate	When user moves from one UI item to another			I provided a sound that resembles footsteps moving from one area to another
+ui-open	When user opens a sub menu		Each submenu is shown as a "bag", so something that reads like a bag being opened	I provided a sound that resembles a bag being clicked open
+ui-close	When user exits a sub menu			I provided a sound that resembles a bag being snapped closed
+ui-equip	When user selects an item for gameplay			I provided a sound that resembles the sound of an item moving swiftly up
+ui-cancel	When user unequips item			I provided a sound that resembles the sound of an item moving swiftly down
+ui-error	General purpose error sound. Played when user tries to exit a top level submenu, equip a deactivated item, etc			I provided a sound that resembles a click
